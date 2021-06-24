@@ -1,7 +1,9 @@
+<h2>Olá, bem-vindo ao meu GitHub</h2>
+
 Eu amo programar em php e modelagem de sites/mobile.
 
 
-⚡ Curiosidade:
+⚡ Curiosidades:
 <br/>
 
 🌱 Atualmente, estou aprendendo JavaScript e aprimorando meu conhecimento em Design.
