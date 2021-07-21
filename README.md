@@ -6,7 +6,7 @@ Eu amo programar em php e modelagem de sites/mobile.
 ⚡ Curiosidades:
 <br/>
 
-🌱 Atualmente, estou aprendendo JavaScript e aprimorando meu conhecimento em Design.
+🌱 Atualmente, estou aprendendo Java e aprimorando meu conhecimento em Design.
 <br/>
 ✏️ Jogo Tetris e LoL no tempo livre.
 <br/>
