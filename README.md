@@ -1,6 +1,6 @@
 <h2>Olá, bem-vindo ao meu GitHub</h2>
 
-Eu amo programar em php e modelagem de sites/mobile.
+Eu amo programar em Angular2 e fazer protótipos no figma.
 
 
 ⚡ Curiosidades:
