@@ -10,8 +10,8 @@ Atualmente, estou trabalhando em um Agendador para Cabeleireiros em Nuvem, que v
 
 ## Minhas habilidades
 
-- [Angular Junior]: Tenho experiência em desenvolvimento de aplicações web com Angular, onde já trabalhei em projetos utilizando Angular 2+ e suas principais funcionalidades, como componentes, serviços, rotas e diretivas.
-- [Spring Boot Junior]: Tenho experiência em desenvolvimento de aplicações web utilizando Spring Boot, onde já trabalhei em projetos que envolviam desde a configuração inicial do ambiente até a implementação de camadas de segurança, persistência de dados com JPA/Hibernate e consumo de APIs externas.
+- [Angular Pleno]: Tenho experiência em desenvolvimento de aplicações web com Angular, onde já trabalhei em projetos utilizando Angular 2+ e suas principais funcionalidades, como componentes, serviços, rotas e diretivas.
+- [Spring Boot Pleno]: Tenho experiência em desenvolvimento de aplicações web utilizando Spring Boot, onde já trabalhei em projetos que envolviam desde a configuração inicial do ambiente até a implementação de camadas de segurança, persistência de dados com JPA/Hibernate e consumo de APIs externas.
 - [HTML/CSS/JavaScript]: Possuo conhecimentos em desenvolvimento web utilizando HTML, CSS e JavaScript.
 
 ## Como me encontrar
