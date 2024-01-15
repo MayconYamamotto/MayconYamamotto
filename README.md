@@ -20,11 +20,11 @@ Você pode entrar em contato comigo através do meu [LinkedIn - Maycon Yamamotto
 
 ## Estatísticas do meu GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MayconYamamotto&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats-git-master-mayconyamamotto.vercel.app/api?username=MayconYamamotto&show_icons=true)
 
 ## Minhas principais linguagens de programação
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconYamamotto&layout=compact)
+![Top Linguagens](https://github-readme-stats-git-master-mayconyamamotto.vercel.app/api/top-langs/?username=MayconYamamotto&layout=compact)
 
 ## Agradecimentos
 
