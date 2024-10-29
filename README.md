@@ -1,6 +1,6 @@
 # Olá, eu sou Maycon Yamamotto! 👋
 
-Sou um Desenvolvedor Full-Stack com experiência em Angular e Spring Boot. Atualmente, trabalho na Trier Sistemas como Desenvolvedor.
+Sou um Desenvolvedor Full-Stack com experiência em Angular e Spring Boot. Atualmente, trabalho na Cresol como Desenvolvedor.
 
 ## Meus projetos
 
